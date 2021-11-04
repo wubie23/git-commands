@@ -1,4 +1,4 @@
-# git-commands
+# Git-Commands
 This are list of git commands:
 ## Initializing git
 git init
@@ -6,7 +6,7 @@ git init
 git config --global user.name "wubie23"
 git config --global user.email "wubieee@gmail.com"
 
-# Creating some files
+## Creating some files
 touch file1.txt
 touch file2.txt
 ## Creating some files
@@ -20,3 +20,12 @@ touch file2.txt
 touch file1.txt
 touch file2.txt
 
+##### Creating some files
+touch file1.txt
+touch file2.txt
+###### Creating some files
+touch file1.txt
+touch file2.txt
+####### Creating some files
+touch file1.txt
+touch file2.txt
